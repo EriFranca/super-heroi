@@ -25,3 +25,5 @@ The page is hosted in here: [SuperHeroApp](https://wahidx.github.io/superheroapp
 
 # Video Demonstration
 [Youtube](https://youtu.be/YNJHumhthR8)
+
+GITHUB.IO: https://erifranca.github.io/super-heroi//pages/index.html
