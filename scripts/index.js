@@ -1,6 +1,7 @@
 // Commonly used values
-const access_token = '338148107599656';
-const url = 'https://superheroapi.com/api.php/'+access_token+'/search/';
+//const access_token = '338148107599656';
+//const url = 'https://superheroapi.com/api.php/'+access_token+'/search/';
+const url = 'https://guiadosquadrinhos.com/'
 const favFalse = '../assets/images/white_star.png';
 const favTrue = '../assets/images/red_star.png';
 
