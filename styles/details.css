@@ -59,11 +59,11 @@ header *{
     text-decoration: none;
 }
 
-.favourite-router *{
+.favorito-router *{
     border-radius: 10px;
 }
 
-.favourite-router *:hover{
+.favoritos-router *:hover{
     color: red;
 }
 

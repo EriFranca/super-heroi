@@ -6,15 +6,15 @@ This contains 3 pages each having it's separate css and js files:<br><br>
     &nbsp;├── assets<br>
     &nbsp;├── pages<br>
     &nbsp;│   ├── details.html<br>
-    &nbsp;│   ├── favourites.html<br>
+    &nbsp;│   ├── favoritos.html<br>
     &nbsp;│   └── index.html<br>
     &nbsp;├── scripts<br>
     &nbsp;│   ├── details.js<br>
-    &nbsp;│   ├── favourites.js<br>
+    &nbsp;│   ├── favoritos.js<br>
     &nbsp;│   └── index.js<br>
     &nbsp;└── styles<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── details.css<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── favourites.css<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── favoritos.css<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── index.css<br>
         
 ## Objective
